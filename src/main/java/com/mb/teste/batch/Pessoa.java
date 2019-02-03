@@ -2,8 +2,10 @@ package com.mb.teste.batch;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
+import javax.persistence.Table;
 
 @Entity
+@Table(name = "pessoa")
 public class Pessoa {
 
     @Id
