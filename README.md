@@ -1,4 +1,4 @@
-# spring-batch-avec-anotacoes-jpa
+# spring-batch-via-java-avec-jpa
 
 
 - Referencia
